@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
+
+body{
+    background-color: lavender;
+    font-family: 'Scheherazade New', serif;
+    text-align: center;
+}
+
+h1{
+    color: rgb(85, 85, 221);
+    font-size: 40px;
+}
+
+label{
+    color: rgb(85, 85, 221);
+    font-size: 35px;
+    font-weight: 200;
+}
+
+p{
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
